@@ -1,2 +1,5 @@
 # website-layout
-website layout design { quick } HTML &amp; CSS
+website layout design { quick } HTML and CSS
+
+live preview :
+https://sajidhaidersourav.github.io/website-layout/
